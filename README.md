@@ -35,6 +35,6 @@ A partial list of the main topics include: the cardiovascular & pulmonary system
 ## Pages
 + [Assignments-Schedule](https://github.com/cornelltech/INFO-5400/blob/content/Assignments-Schedule.md)
 + [Assignments-and-Grading](https://github.com/cornelltech/INFO-5400/blob/content/Assignments-and-Grading.md)
-+ [Final-Project-Overview](https://github.com/cornelltech/INFO-5400/blob/content/Final-Project-Overview.md)
-+ [Game-Assignments](https://github.com/cornelltech/INFO-5400/blob/content/Game-Assignments.md)
++ [Final-Project-Overview](https://github.com/cornelltech/INFO-5400/blob/content/Final-Project:-Overview.md)
++ [Game-Assignments](https://github.com/cornelltech/INFO-5400/blob/content/Game-assignments.md)
 + [Lectures](https://github.com/cornelltech/INFO-5400/blob/content/Lectures.md)
