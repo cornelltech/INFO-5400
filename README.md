@@ -24,7 +24,7 @@ Note that these physicians are generously donating their time to Cornell Tech, a
 
 IS5400 meets weekly on Mondays from 4:00 to 6:00 in the afternoon, with a short break in the middle. The first class session will be on 8/29/15. Note that due to Cornell holidays there is no class on 9/5 or 10/10. Informal office hours will be held after class ends, and formal ones will be added shortly.
 
-Students will complete four labs. There are no exams. Note that all lab assignments will be done in student teams, usually with 2 students. Assignments and grading will be handled via [CMS](https://cms.csuglab.cornell.edu). For more details see: [Assignments and Grading](https://github.com/cornelltech/INFO-5400/blob/content/Labs-and-Grading.md).
+Students will complete four labs. There are no exams. Note that all lab assignments will be done in student teams, usually with 2 students. Assignments and grading will be handled via [CMS](https://cms.csuglab.cornell.edu). For more details see: [Assignments and Grading](https://github.com/cornelltech/INFO-5400/blob/content/Assignments-and-Grading.md).
 
 We adhere to the Cornell [Code of Academic Integrity](http://cuinfo.cornell.edu/aic.cfm): all submitted work is assumed to be the independent work of a student/student team. If you have any concerns about this be sure to reach out to Professor Shoham before submitting your work.
 
@@ -33,8 +33,8 @@ We adhere to the Cornell [Code of Academic Integrity](http://cuinfo.cornell.edu/
 A partial list of the main topics include: the cardiovascular & pulmonary systems, the endocrine system, the gastrointestinal system, hematology, the nervous system, and pediatric issues. The lecture schedule is [here](https://github.com/cornelltech/INFO-5400/blob/content/Lectures.md).
 
 ## Pages
-+ [Labs-Schedule]()
-+ [Labs-and-Grading]()
-+ [Final-Project-Overview]()
-+ [Game-Assignments]()
-+ [Lectures]()
++ [Assignments-Schedule](https://github.com/cornelltech/INFO-5400/blob/content/Assignments-Schedule.md)
++ [Assignments-and-Grading](https://github.com/cornelltech/INFO-5400/blob/content/Assignments-and-Grading.md)
++ [Final-Project-Overview](https://github.com/cornelltech/INFO-5400/blob/content/Final-Project-Overview.md)
++ [Game-Assignments](https://github.com/cornelltech/INFO-5400/blob/content/Game-Assignments.md)
++ [Lectures](https://github.com/cornelltech/INFO-5400/blob/content/Lectures.md)
