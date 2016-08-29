@@ -1,6 +1,6 @@
 ## IS 5400, Medical Literacy, Fall 2016
 
-Welcome to the IS5400-Fall2016 wiki! This is for "Medical Literacy", taught in Fall 2016 at Cornell Tech.
+Welcome to the IS5400-Fall2016! This is for "Medical Literacy", taught in Fall 2016 at Cornell Tech.
 
 All Cornell Tech masters students are welcome to enroll. In particular, students interested in possible projects with Weill Cornell, including workstudy opportunities, are strongly encouraged to attend.
 
