@@ -18,9 +18,9 @@ Pairs of students will do a free-form final project and present it on the last d
 ### Grading
 
 The class will be graded following the usual curve at CornellTech. Weights are as follows:
-	* Lab 1 : 20 %
-	* Lab 2 : 25 %
-	* Lab 3 : 20 %
-	* Lab 4 : 35 %
-	* Game Assignments + Final Project Checkpoint + Class Attendance : 10 %
+	+ Lab 1 : 20 %
+	+ Lab 2 : 25 %
+	+ Lab 3 : 20 %
+	+ Lab 4 : 35 %
+	+ Game Assignments + Final Project Checkpoint + Class Attendance : 10 %
 

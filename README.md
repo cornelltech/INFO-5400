@@ -8,7 +8,7 @@ This course will cover common medical terminology, an overview of anatomy and pa
 
 ## Course staff
 
-**Instructors**:
+**Instructor**:
 * Shy Shoham, sshoham@bm.technion.ac.il
 
 **Physician instructors**: The lectures will be given by the following physicians or their colleagues: 
