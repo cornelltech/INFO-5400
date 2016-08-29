@@ -12,7 +12,7 @@ One broad idea is to look at various available data sets and figure out what com
 * https://github.com/ImagingInformatics/hackathon-dataset
 * http://www.cancerimagingarchive.net/
 
-We also have about 100 anonymized DICOM images available, see Professor Zabih or Dr. Shih if you are interested.
+We also have about 100 anonymized DICOM images available, see Professor Shoham or Dr. Shih if you are interested.
 
 ### Ideas
 
