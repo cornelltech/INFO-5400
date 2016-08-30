@@ -13,7 +13,7 @@ This course will cover common medical terminology, an overview of anatomy and pa
 
 **Physician instructors**: The lectures will be given by the following physicians or their colleagues: 
 * Gary Dorfman, MD
-* Keith Hentel, MD
+* Keith Hentel, MD , keh9003@med.cornell.edu
 
 Note that these physicians are generously donating their time to Cornell Tech, and are happy to answer questions about the content of the course. However, questions about anything else (including grades, due dates, etc.) can be answered by Professor Shoham and by the TA Francesco Perera.
 
