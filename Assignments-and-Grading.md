@@ -22,5 +22,5 @@ The class will be graded following the usual curve at CornellTech. Weights are a
 * Lab 2 : 25 %
 * Lab 3 : 20 %
 * Lab 4 : 35 %
-* Game Assignments + Final Project Checkpoint + Class Attendance : 10 %
+
 
