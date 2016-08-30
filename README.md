@@ -33,15 +33,9 @@ We adhere to the Cornell [Code of Academic Integrity](http://cuinfo.cornell.edu/
 A partial list of the main topics include: the cardiovascular & pulmonary systems, the endocrine system, the gastrointestinal system, hematology, the nervous system, and pediatric issues. The lecture schedule is [here](https://github.com/cornelltech/INFO-5400/blob/master/Lectures.md).
 
 ## Pages
-<<<<<<< HEAD
-+ [Assignments-Schedule](https://github.com/cornelltech/INFO-5400/blob/content/Assignments-Schedule.md)
-+ [Assignments-and-Grading](https://github.com/cornelltech/INFO-5400/blob/content/Assignments-and-Grading.md)
-+ [Final-Project-Overview](https://github.com/cornelltech/INFO-5400/blob/content/Final-Project:-Overview.md)
-+ [Game-Assignments](https://github.com/cornelltech/INFO-5400/blob/content/Game-assigments.md)
-=======
+
 + [Assignments-Schedule](https://github.com/cornelltech/INFO-5400/blob/master/Assignments-Schedule.md)
 + [Assignments-and-Grading](https://github.com/cornelltech/INFO-5400/blob/master/Assignments-and-Grading.md)
 + [Final-Project-Overview](https://github.com/cornelltech/INFO-5400/blob/master/Final-Project:-Overview.md)
 + [Game-Assignments](https://github.com/cornelltech/INFO-5400/blob/master/Game-assigments.md)
->>>>>>> efb4788b92d542106142c5753c35abaec7354177
 + [Lectures](https://github.com/cornelltech/INFO-5400/blob/master/Lectures.md)
