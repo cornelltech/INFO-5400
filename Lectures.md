@@ -8,7 +8,7 @@ subject to change.
     - Faculty: Dr. Hentel / Dr. Dorfman  
     - Anatomic Focus: Multisystem     
     - Biologic / Physiologic Focus: Overview.
-               				
+    - Presentation: [Trauma](https://drive.google.com/a/cornell.edu/file/d/0B0WKo8T6325yWXp2enQzMGFkWjg/view?usp=sharing)           			
 
 + **Date: 9/12/16**	
     - Clinical Scenario : Rheumatoid arthritis (RA) with Joint Replacement		         
