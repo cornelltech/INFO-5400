@@ -7,7 +7,8 @@ subject to change.
     - Clinical Scenario : Course Intro / Multi-system Trauma (Dr. Hentel)			          
     - Faculty: Dr. Hentel / Dr. Dorfman  
     - Anatomic Focus: Multisystem     
-    - Biologic / Physiologic Focus: Overview.            				
+    - Biologic / Physiologic Focus: Overview.
+               				
 
 + **Date: 9/12/16**	
     - Clinical Scenario : Rheumatoid arthritis (RA) with Joint Replacement		         
@@ -37,7 +38,7 @@ subject to change.
     - Clinical Scenario : Abdominal Pain - Appy                 
     - Faculty: Dr.Belfi   
     - Anatomic Focus: Gl Anatomy 
-    - Biologic / Physiologic Focus: Types of Non-Circulatory Cells & Their Organization (Endo, Epi, Meso, etc)  
+    - Biologic / Physiologic Focus: Types of Non-Circulatory Cells & Their Organization (Endo, Epi, Meso, etc) 
 		
 + **Date: 10/24/16**  
     - Clinical Scenario : Breast Cancer with Mets			         

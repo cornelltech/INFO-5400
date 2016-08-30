@@ -8,7 +8,7 @@ For labs 1, 2 and 3 a pair of students will be assigned to write a report on a s
 
 ### Anatomy game assignments
 Students will be asked to complete short games. To prove completion, students will need to submit a screenshot or video.
-LInks to games will be posted in the [Game-assignments](https://github.com/cornelltech/INFO-5400/blob/content/Game-assignments.md)
+Links to games will be posted in the [Game-assignments](https://github.com/cornelltech/INFO-5400/blob/master/Game-assignments.md)
 
 ### Final project
 
