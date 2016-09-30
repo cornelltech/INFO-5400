@@ -15,6 +15,8 @@ subject to change.
     - Faculty: Dr. Bartolotta   
     - Anatomic Focus: Muscoloskeletal (MSK) Anatomy	     
     - Biologic / Physiologic Focus: Inflammation Across Multiple Anatomies and Disease Processes
+    - Presentation : [Muscoloskeletal (MSK) Anatomy](https://drive.google.com/file/d/0B0WKo8T6325ySUFkLTZsQmVGcGM/view?usp=sharing)
+    - Active Learning Session: [CT Image Reconstruction](https://drive.google.com/file/d/0B0WKo8T6325yT3FkYnF0QTg2OUE/view?usp=sharing)
 			
 + **Date: 9/19/16**	
     - Clinical Scenario : HIV - AIDS		         
