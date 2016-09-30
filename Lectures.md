@@ -29,6 +29,8 @@ subject to change.
     - Faculty: Dr. Chiang 
     - Anatomic Focus: Neuroanatomy    
     - Biologic / Physiologic Focus: Network Functions; Function and Anatomy.
+    - Presentation:[Neurodegenerative Diseases (AD)](https://drive.google.com/file/d/0B0WKo8T6325yZU9ySHVaczRnU0E/view?usp=sharing)
+    - Active Learning Session:[Understanding Action](https://drive.google.com/file/d/0B0WKo8T6325ySVNaRFpVVXBMMUU/view?usp=sharing)
     
 + **Date: 10/3/16** 
     - Clinical Scenario : GU Congential Abnormality with secondary complications			         

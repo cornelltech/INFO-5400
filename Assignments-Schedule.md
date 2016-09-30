@@ -5,6 +5,8 @@ Note that exact due dates are subject to change.
 
 #### Lab 1:  
 Students will be assigned to visit and shadow physicians at specific sites. After the visit, students will be expected to make a report detailing their observations and propose a solution. In addition, students will present their observations in class.
+
+Hospital visits will occur on 10/7
 Presentation and report are due on 10/17.
 
 More details on the lab to come.
