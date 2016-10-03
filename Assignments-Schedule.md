@@ -9,7 +9,7 @@ Students will be assigned to visit and shadow physicians at specific sites. Afte
 Hospital visits will occur on **10/7** <br />
 Presentation and report are due on **10/17**. <br />
 
-####Lab Guideline**
+####Lab Guideline
 For your report and presentation explain in detail the following:
 	- Introduce hospital setting ( area,main contact/guide)
 	- Explain and describe the members or staff present in the hospital setting(who are they and what are there roles). Who works in the hospital setting?
