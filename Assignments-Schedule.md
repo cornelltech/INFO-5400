@@ -6,10 +6,22 @@ Note that exact due dates are subject to change.
 #### Lab 1:  
 Students will be assigned to visit and shadow physicians at specific sites. After the visit, students will be expected to make a report detailing their observations and propose a solution. In addition, students will present their observations in class.
 
-Hospital visits will occur on 10/7
-Presentation and report are due on 10/17.
+Hospital visits will occur on **10/7**
+Presentation and report are due on **10/17**.
 
-More details on the lab to come.
+**Lab Guideline**
+For your report and presentation explain in detail the following:
+	- Introduce hospital setting ( area,main contact/guide)
+	- Explain and describe the members or staff present in the hospital setting(who are they and what are there roles). Who works in the hospital setting?
+	- Describe the workflow, what happens in the hospital setting?
+	- Based on your observations, what worked well and why ?
+	- Based on your observation, what did not work well and why?
+	- Propose a basic solution to one of the problems/challenges you observed. Why would it solve the problem you are trying to 
+		address?
+
+#### Final Project checkpoint
+Students will submit a short report on their final project outline and describe the project status/progress. (Graded Pass/Fail) This checkpoint is due **10/17**.
+
 
 #### Final Project checkpoint
 Students will submit a short report on their final project outline and describe the project status/progress. (Graded Pass/Fail) This checkpoint is due 10/17.
