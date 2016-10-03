@@ -11,12 +11,13 @@ Presentation and report are due on **10/17**. <br />
 
 ####Lab Guideline
 For your report and presentation explain in detail the following:
-	- Introduce hospital setting ( area,main contact/guide)
-	- Explain and describe the members or staff present in the hospital setting(who are they and what are there roles). Who works in the hospital setting?
-	- Describe the workflow, what happens in the hospital setting?
-	- Based on your observations, what worked well and why ?
-	- Based on your observation, what did not work well and why?
-	- Propose a basic solution to one of the problems/challenges you observed. Why would it solve the problem you are trying to 
+	1. Introduce hospital setting ( area,main contact/guide)
+	2. Explain and describe the members or staff present in the hospital setting(who are they and what are there roles). Who works 
+		in the hospital setting?
+	3. Describe the workflow, what happens in the hospital setting?
+	4. Based on your observations, what worked well and why ?
+	5. Based on your observation, what did not work well and why?
+	6. Propose a basic solution to one of the problems/challenges you observed. Why would it solve the problem you are trying to 
 		address?
 
 #### Final Project checkpoint
