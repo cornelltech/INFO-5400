@@ -11,14 +11,14 @@ Presentation and report are due on **10/17**. <br />
 
 ####Lab Guideline
 For your report and presentation explain in detail the following:
-	1. Introduce hospital setting ( area,main contact/guide)
+	1. Introduce hospital setting ( area,main contact/guide) <br />
 	2. Explain and describe the members or staff present in the hospital setting(who are they and what are there roles). Who works 
-		in the hospital setting?
-	3. Describe the workflow, what happens in the hospital setting?
-	4. Based on your observations, what worked well and why ?
-	5. Based on your observation, what did not work well and why?
+		in the hospital setting?<br />
+	3. Describe the workflow, what happens in the hospital setting?<br />
+	4. Based on your observations, what worked well and why ?<br />
+	5. Based on your observation, what did not work well and why?<br />
 	6. Propose a basic solution to one of the problems/challenges you observed. Why would it solve the problem you are trying to 
-		address?
+		address?<br />
 
 #### Final Project checkpoint
 Students will submit a short report on their final project outline and describe the project status/progress. (Graded Pass/Fail) This checkpoint is due **10/17**.
