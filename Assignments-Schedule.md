@@ -10,9 +10,9 @@ Hospital visits will occur on **10/7** <br />
 Presentation and report are due on **10/17**. <br />
 
 ####Lab Guideline
-For your report and presentation explain in detail the following:
+For your report and presentation explain in detail the following:<br />
 	1. Introduce hospital setting ( area,main contact/guide) <br />
-	2. Explain and describe the members or staff present in the hospital setting(who are they and what are there roles). Who works 
+	2. Explain and describe the members or staff present in the hospital setting(who are they and what are there roles).Who works 
 		in the hospital setting?<br />
 	3. Describe the workflow, what happens in the hospital setting?<br />
 	4. Based on your observations, what worked well and why ?<br />
