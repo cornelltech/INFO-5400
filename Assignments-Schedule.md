@@ -21,7 +21,7 @@ For your report and presentation explain in detail the following:<br />
 		address?<br />
 <br />
 Report should be 1-2 pages single space.<br />
-Presentation should be about  5 - 10 minutes <br />
+Presentation should be about 10 minutes + questions at the end. <br />
 
 #### Final Project checkpoint
 Students will submit a short report on their final project outline and describe the project status/progress. (Graded Pass/Fail) This checkpoint is due **10/17**.
