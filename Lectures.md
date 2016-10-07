@@ -37,6 +37,8 @@ subject to change.
     - Faculty: Dr. Renjen      
     - Anatomic Focus: Embryology and Congential Defects    
     - Biologic / Physiologic Focus: Normal and Abnormal Fetal Developments
+    - Presentation:[Congenital Abnormalities](https://drive.google.com/file/d/0B0WKo8T6325ydGJod2ZhLW5WeXM/view?usp=sharing)
+    - Active Learning Session:[Ultrasonic Imaging](https://drive.google.com/file/d/0B0WKo8T6325ybmVjSzdrOWJoUm8/view?usp=sharing)
 
 + **Date: 10/17/16**  
     - Clinical Scenario : Abdominal Pain - Appy                 
