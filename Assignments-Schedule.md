@@ -19,6 +19,9 @@ For your report and presentation explain in detail the following:<br />
 	5. Based on your observation, what did not work well and why?<br />
 	6. Propose a basic solution to one of the problems/challenges you observed. Why would it solve the problem you are trying to 
 		address?<br />
+<br />
+Report should be 1-2 pages single space.<br />
+Presentation should be about 10 minutes + questions at the end. <br />
 
 #### Final Project checkpoint
 Students will submit a short report on their final project outline and describe the project status/progress. (Graded Pass/Fail) This checkpoint is due **10/17**.
