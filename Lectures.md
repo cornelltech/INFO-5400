@@ -49,7 +49,8 @@ subject to change.
 + **Date: 10/24/16**  
     - Clinical Scenario : Breast Cancer with Mets			         
     - Faculty: Dr.Arleo    
-    - Anatomic Focus: Female GU Anatomy   
+    - Anatomic Focus: Female GU Anatomy 
+    - Presentation:[Female GU Anatomy ](https://drive.google.com/file/d/0B0WKo8T6325yczdjaTV1dU1icms/view?usp=sharing)
     - Biologic / Physiologic Focus: Women's Health (include some female GU and pregnancy)
     
 				
