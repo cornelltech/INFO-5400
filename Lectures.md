@@ -21,7 +21,8 @@ subject to change.
 + **Date: 9/19/16**	
     - Clinical Scenario : HIV - AIDS		         
     - Faculty: Dr. Mennitt  
-    - Anatomic Focus:	 Hematopoetic System   
+    - Anatomic Focus:	 Hematopoetic System  
+    - Presentation: [Counting Cells](https://drive.google.com/file/d/0B0WKo8T6325yOUQwM0kzMGdmS2s/view?usp=sharing) 
     - Biologic / Physiologic Focus: Circulating Cell Types and Their Functions
    			
 + **Date: 9/26/16**
@@ -43,7 +44,8 @@ subject to change.
 + **Date: 10/17/16**  
     - Clinical Scenario : Abdominal Pain - Appy                 
     - Faculty: Dr.Belfi   
-    - Anatomic Focus: Gl Anatomy 
+    - Anatomic Focus: GI Anatomy 
+    - Presentation: [GI Anatomy](https://drive.google.com/file/d/0B0WKo8T6325yZDF3WjZqcGpkdlU/view?usp=sharing)
     - Biologic / Physiologic Focus: Types of Non-Circulatory Cells & Their Organization (Endo, Epi, Meso, etc) 
 		
 + **Date: 10/24/16**  
