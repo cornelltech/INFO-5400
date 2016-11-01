@@ -27,9 +27,33 @@ Presentation should be about 10 minutes + questions at the end. <br />
 Students will submit a short report on their final project outline and describe the project status/progress. (Graded Pass/Fail) This checkpoint is due **10/17**.
 
 #### Lab 2: 
-Pairs of students will critique a popular press article, beginning by reading the research article being described. Presentation is as for HW1, due on 11/7.
+Presentation due date: **11/7 (4pm)**. <br />
+Report due date: **11/13 (11:59 PM)**. <br />
 
-More details on the lab to come.
+Presentation and Lab Reports are submitted in groups of 2. Presentations should cover the same points as the report ( like for Lab 1).
+
+Guidelines:
+ 1. Pick one of 5 topics present in this page. Choice is first come ,first serve. Two teams cannot pick the same topic. <br />
+ https://docs.google.com/spreadsheets/d/10a652qi7bBlALMr02Pq0NQ7gciauA9N1prXJhok_w8A/edit?usp=sharing <br />
+
+
+ 2. The objective of this assignment is to focus on  a specific cancer type and compare how regular,lay press ( New York Times,USA Today, Wall Street Journals another newspapers or journals) cover the same cancer topic covered or explained in medical journals ( NEJM, JAMA etc..). 
+
+<br \>
+**( This is not  a cancer topic, it is just to help you understand how to relate the lay press and the medical journal articles)**
+I found an article on NEJM about a study detailing the relationship between glucose and dementia. I also found an article on NYT that discussed the same study.
+Here are the links: <br />
+- http://www.nejm.org/doi/full/10.1056/NEJMoa1215740 <br />
+- http://newoldage.blogs.nytimes.com/2013/08/09/high-blood-sugar-linked-to-dementia/?_r=0 <br />
+
+In the report please cover the following points:<br />
+- Introduce the cancer you chose ( what type of cancer is it, does it have any subtypes, add general introductory information about the cancer)<br />
+- Introduce/Summarize the topic related to the cancer that is discussed in the lay press and the medical journal article<br />
+- What are some misconceptions and ambiguities found in the lay press article compared to the medical articles?<br />
+- What should have been included, if anything, in the lay press article so that it closely matched the description of the same article in the medical journal?<br />
+- If your articles contain quantitive data, please explain  them in your report and also include whether the lay press did include the same data or not.<br />
+
+
 
 #### Lab 3: 
 ECG in-class demo and data collection on 11/14. Students will submit a report on their ECG analysis.(No presentation)
