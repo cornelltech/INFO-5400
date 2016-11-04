@@ -59,12 +59,13 @@ subject to change.
 + **Date: 10/31/16**
     - Clinical Scenario : Diabetic with Multisystem Failure			         
     - Faculty: Dr. Kovanlikaya    
-    - Anatomic Focus: Endocrine System     
+    - Anatomic Focus: Endocrine System
+    - Presentation: [Diabetes/Obesity](https://drive.google.com/file/d/0B0WKo8T6325yby0tT0hyR0FLRTA/view?usp=sharing)     
     - Biologic / Physiologic Focus:  Nutrition, Metabolism, Obesity, Metabolic Syndrome
     
 				
 + **Date: 11/7/16**	
-    - Clinical Scenario : COPD w/ Stage 1A Lung Cancer / Screening			         
+    - Clinical Scenario : COPD w/ Stage 1A Lung Cancer / Screening			    
     - Faculty: Dr.Asrani   
     - Anatomic Focus: Pulmonary Anatomy    
     - Biologic / Physiologic Focus: Life Cycle of the Cell and Disorders Thereof
@@ -78,7 +79,7 @@ subject to change.
     
 				
 + **Date: 11/21/16**
-    - Clinical Scenario : Renal Stones,DDx Hematuria and UTI			         
+    - Clinical Scenario : Renal Stones,DDx Hematuria and UTI			       
     - Faculty: Dr. Wehrli       
     - Anatomic Focus: GU Anatomy    
     - Biologic / Physiologic Focus: Infection - BUgs & Viruses
