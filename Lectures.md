@@ -67,15 +67,19 @@ subject to change.
 + **Date: 11/7/16**	
     - Clinical Scenario : COPD w/ Stage 1A Lung Cancer / Screening			    
     - Faculty: Dr.Asrani   
-    - Anatomic Focus: Pulmonary Anatomy    
+    - Anatomic Focus: Pulmonary Anatomy 
+    - Presentation:[COPD with Lung Cancer](https://drive.google.com/open?id=0B0WKo8T6325yRGJxdjNPWkxoTVU)   
     - Biologic / Physiologic Focus: Life Cycle of the Cell and Disorders Thereof
     				
 				
 + **Date: 11/14/16**
     - Clinical Scenario : MI in Vasculopath		         
     - Faculty: Dr.Legasto   
-    - Anatomic Focus: CV Anatomy    
+    - Anatomic Focus: CV Anatomy   
     - Biologic / Physiologic Focus: Cardiac Conductivity; Regulation of BP/P/ VS
+    - Active Session : [ECG](https://drive.google.com/file/d/0B0WKo8T6325yMktyTUtXX05kaVE/view?usp=sharing)
+    -[ECG Video 1](https://www.youtube.com/watch?v=RYZ4daFwMa8)
+    -[ECG Video 2](https://www.youtube.com/watch?v=AUn8P5hRG0c)
     
 				
 + **Date: 11/21/16**
