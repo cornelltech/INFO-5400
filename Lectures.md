@@ -78,8 +78,8 @@ subject to change.
     - Anatomic Focus: CV Anatomy   
     - Biologic / Physiologic Focus: Cardiac Conductivity; Regulation of BP/P/ VS
     - Active Session : [ECG](https://drive.google.com/file/d/0B0WKo8T6325yMktyTUtXX05kaVE/view?usp=sharing)
-    -[ECG Video 1](https://www.youtube.com/watch?v=RYZ4daFwMa8)
-    -[ECG Video 2](https://www.youtube.com/watch?v=AUn8P5hRG0c)
+    - [ECG Video 1](https://www.youtube.com/watch?v=RYZ4daFwMa8)
+    - [ECG Video 2](https://www.youtube.com/watch?v=AUn8P5hRG0c)
     
 				
 + **Date: 11/21/16**
