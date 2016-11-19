@@ -56,8 +56,8 @@ In the report please cover the following points:<br />
 
 
 #### Lab 3: 
-ECG in-class demo and data collection on 11/14. Students will submit a report on their ECG analysis.(No presentation)
-Report and data analysis will be due  on 11/21.
+ECG in-class demo and data collection on 11/21. Students will submit a report on their ECG analysis.(No presentation)
+Report and data analysis will be due  on 11/28.
 
 More details on the lab to come.
 
