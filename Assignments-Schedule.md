@@ -61,10 +61,10 @@ Report and data analysis will be due  on 11/28.
 
 ###Lab Guideline: <br />
 Using the ecg data that was emailed to you, do the following: <br />
-1)plot ECG signal to show: P,QRS,T wave
-2)calculate average heart rate(hint calculate RR interval)
-3) calculate coefficient of variation ( hint calculate  heart standard devation and average heart rate)
-4) plot heart rate (HR) over time.
+1)plot ECG signal to show: P,QRS,T wave  <br />
+2)calculate average heart rate(hint calculate RR interval)  <br />
+3) calculate coefficient of variation ( hint calculate  heart standard devation and average heart rate) <br />
+4) plot heart rate (HR) over time. <br />
 
 #### Final Project presentation: 
 In class presentations on 11/28
